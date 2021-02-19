@@ -38,3 +38,7 @@ params:
     enable: false
 # Background Image
   background: "images/background.jpg"
+
+  logo:
+    inverted: "images/background.jpg"
+    favicon: "images/author/profile.jpeg"

@@ -43,3 +43,12 @@ softSkills:
 - name: Fast Learner
   percentage: 80
   color: green
+- name: Problem Solving
+  percentage: 70
+  color: pink
+- name: Decision Making
+  percentage: 70
+  color: pink
+- name: Creativity
+  percentage: 60
+  color: yellow
