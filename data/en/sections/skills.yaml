@@ -13,9 +13,9 @@ section:
 skills:
 - name: Kubernetes
   icon: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  summary: "Capable of deploying, managing application on Kubernetes."
   url: "https://kubernetes.io/"
 
 - name: Cloud Computing
   icon: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "Familiar with AWS and its services"

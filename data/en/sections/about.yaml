@@ -8,24 +8,27 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Site Reliability Engineer
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Digital Services Cambridge Limited
+  url: "https://www.cambridge.org/philippines"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with 3 years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'A Swiss Army Knife. I started as a software engineer maintaining monolithic legacy apps then migrated it to Docker and Kubernetes shifted to SRE role supporting the infrastructure of other projects as well as the project I migrated. I love being a team-player and fill-in what is needed by the team. On my free time, I tinker around my linux configuration and read books'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/jolovillanueva47"
+- name: LinkedIn
+  icon: "fab fa-linkedin-in"
+  url: "https://linkedin.com/in/jolovillanueva"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
@@ -37,3 +40,6 @@ softSkills:
 - name: Team Work
   percentage: 90
   color: blue
+- name: Fast Learner
+  percentage: 80
+  color: green
