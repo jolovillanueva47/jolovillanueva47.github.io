@@ -1,0 +1,24 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Bachelor of Science in Computer Science with Specialization in Software Engineering
+  icon: fa-graduation-cap
+  timeframe: 2014-2017
+  institution:
+    name: iACADEMY
+    url: "https://iacademy.edu.ph/"
+- name: Bachelor of Science in Medical Technology
+  icon: fa-graduation-cap
+  timeframe: 2009-2013
+  institution:
+    name: University of Santo Tomas
+    url: "http://www.ust.edu.ph/"

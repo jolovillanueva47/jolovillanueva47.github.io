@@ -40,5 +40,6 @@ params:
   background: "images/background.jpg"
 
   logo:
-    inverted: "images/background.jpg"
+    main: "images/ironman.png"
+    inverted: "images/ironman.png"
     favicon: "images/author/profile.jpeg"
