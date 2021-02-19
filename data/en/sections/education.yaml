@@ -11,13 +11,13 @@ section:
 
 degrees:
 - name: Bachelor of Science in Computer Science with Specialization in Software Engineering
-  icon: fa-graduation-cap
+  icon: fas fa-laptop-code
   timeframe: 2014-2017
   institution:
     name: iACADEMY
     url: "https://iacademy.edu.ph/"
 - name: Bachelor of Science in Medical Technology
-  icon: fa-graduation-cap
+  icon: fas fa-microscope
   timeframe: 2009-2013
   institution:
     name: University of Santo Tomas
